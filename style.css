@@ -11,19 +11,19 @@ body {
       background-color: rgb(222, 223, 243);
     }
     20% {
-      background-color:rgb(178, 181, 241);
+      background-color:rgb(170, 174, 236);
     }
     40% {
-      background-color: rgb(142, 147, 243);
+      background-color: rgb(125, 131, 243);
     }
     60% {
-      background-color: rgb(98, 106, 241);
+      background-color: rgb(82, 90, 235);
     }
     80% {
-      background-color: rgb(55, 64, 241);
+      background-color: rgb(35, 45, 237);
     }
     100% {
-      background-color: rgb(55, 64, 241);
+      background-color: rgb(28, 34, 151);
     }
   }
 .profile {
